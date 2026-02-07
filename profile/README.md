@@ -13,7 +13,11 @@
 
 Этот вариант идеально подходит тем, кто хочет **стабильный доход и постепенное приобретение собственного авто**.
 
-[![button](https://github.com/user-attachments/assets/dd60ef2c-3cca-4ed4-bcb3-bdab1b9d2e98)](https://dub.sh/rent-odessa)
+<a href="https://dub.sh/rent-odessa">
+  <img src="https://github.com/user-attachments/assets/a64fc38d-5830-4805-970c-96bdf218602e"
+       alt="Оставить заявку"
+       width="200">
+</a>
 
 
 ---
